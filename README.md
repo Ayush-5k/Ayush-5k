@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush-5k/Ayush-5k/blob/main/Tosca%20Retro%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hey 👋, I'm Ayush Satpathy</h1>
 <h3 align="center">Upskilling all the way up</h3>
 
