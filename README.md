@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Ayush Satpathy</h1>
 <h3 align="center">Upskilling all the way up</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-5k&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-5k" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Core Java**
@@ -47,7 +47,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-5k&show_icons=true&locale=en&layout=compact" alt="ayush-5k" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-5k&show_icons=true&locale=en&layout=compact&hide=javascript,html,css" alt="ayush-5k" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-5k&show_icons=true&locale=en" alt="ayush-5k" /></p>
 
